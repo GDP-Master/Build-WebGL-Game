@@ -6,9 +6,9 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/screen-capture.png">
 
-Let's make the prototype playable outside of our classroom. Unity provides a number of options for "releasing" your prototype. You can easily build your prototype for:
-* The web (WebGL).
-* Native play on Linux, macOS, or Windows.
+Let's make the prototype playable outside of our classroom. Unity provides a number of options for "releasing" your prototype. You can easily build a version to play:
+* On the web (WebGL).
+* Natively on Linux, macOS, or Windows.
 
 With a bit more effort, we can build for Android, iOS, and tvOS devices, let me know if you're interested.
 
