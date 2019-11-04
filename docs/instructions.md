@@ -76,6 +76,10 @@ You've got a site! Now to build the game.
 ## Test your game.
 
 1. In **GitHub Desktop** use the **View on GitHub** button to go to the repository on GitHub.
+1. Find the GitHub Pages link under **Settings**.
+1. Clicking on the link will take you to your game.
+1. Test it.
+1. Submit the link.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
