@@ -9,3 +9,5 @@ outcome:
 slides:
 # Link to Google Doc template for assignment submission.
 template:
+# Upstream repository
+upstream: SKHS-GDP-2019-2020/Prototype-1
