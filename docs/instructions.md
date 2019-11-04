@@ -4,6 +4,10 @@ layout: tabbed-assignment
 
 # Instructions
 
+## Pull changes from the **upstream** repository {{}}/{{}}
+
+## Enable GitHub Pages for your repository
+
 1. This, then
 1. That, and finally
 1. The other thing
