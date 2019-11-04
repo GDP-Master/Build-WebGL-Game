@@ -11,7 +11,12 @@ layout: tabbed-assignment
 1. Click on the **Pull Request** button underneath the green **Clone or Download** button.
 1. The pull request dialog will almost certainly be reversed, it will read (something like):
 
-   ```SKHS-GDP-2019-2020/Prototype-1:master < Your-Username/Prototype-1:master```
+   ```base repository: SKHS-GDP-2019-2020/Prototype-1 base: master < head repository: Your-Username/Prototype-1 compare: master```
+   
+   You want it to read:
+   
+   ```Your-Username/Prototype-1:master < SKHS-GDP-2019-2020/Prototype-1:master```
+1. As you switch the reposit
 
 ## Enable GitHub Pages for your repository
 
