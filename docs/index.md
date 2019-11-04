@@ -12,7 +12,7 @@ Let's make the prototype playable outside of our classroom. Unity provides a num
 
 With a bit more effort, we can build for Android, iOS, and tvOS devices, let me know if you're interested.
 
-We'll start by leaning how to do WebGL build to play in a browser, they can be hosted on GitHub and can be played on any device that can access the web - although the user interface will need some work to play well on a phone.
+We'll start by leaning how to do a WebGL build to play in a browser, they can be hosted on GitHub and can be played on any device that can access the web - although the user interface will need some work to play well on a phone.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
