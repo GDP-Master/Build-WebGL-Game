@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-## Pull changes from the **upstream** repository {{}}/{{}}
+## Pull changes from the **upstream** repository {{site.data.assignment.upstream}}
 
 ## Enable GitHub Pages for your repository
 
