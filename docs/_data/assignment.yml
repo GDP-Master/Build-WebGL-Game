@@ -8,6 +8,6 @@ outcome:
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Link to Google Doc template for assignment submission.
-template:
+template: https://docs.google.com/document/d/1auLDR1uEA4drxHMOx3irGDjeBU-0cAbQfBSO8cmud_M/copy
 # Upstream repository
 upstream: SKHS-GDP-2019-2020/Prototype-1
